@@ -1,4 +1,6 @@
 # TeacherRewardSystem Smart Contract
+![image](https://github.com/user-attachments/assets/d676c1d6-b788-4c9c-b89f-a40204c54eac)
+
 
 ## Vision
 
@@ -22,6 +24,8 @@ The `TeacherRewardSystem` smart contract is designed to provide a transparent an
    - Anyone can view the contract's current ether balance.
 
 #### **Contract Address**: 0x6f4621d3f9facf596f6fbccc6466cb6e9cbf8624
+![Screenshot (130)](https://github.com/user-attachments/assets/f50a6a87-c9cc-497b-b977-99c2a74808cc)
+
 
 - **Test Network Address**: `0x1234567890abcdef1234567890abcdef12345678`
 
