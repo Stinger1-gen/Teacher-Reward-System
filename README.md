@@ -1,18 +1,9 @@
-Here's a `README.md` file tailored for your `TeacherRewardSystem` smart contract:
-
----
-
 # TeacherRewardSystem Smart Contract
 
 ## Vision
 
 The `TeacherRewardSystem` smart contract is designed to provide a transparent and efficient way to manage and reward teachers using blockchain technology. It allows the contract owner to add teachers, distribute reward points, and maintain a balance of ether that can be used for future rewards. The goal is to streamline the reward process and ensure that teachers are recognized for their achievements in a secure and immutable manner.
 
-## Flowchart
-
-![Flowchart](https://example.com/flowchart.png)
-
-*Note: Replace the link with your actual flowchart URL or image.*
 
 ### Flowchart Description
 
@@ -30,12 +21,10 @@ The `TeacherRewardSystem` smart contract is designed to provide a transparent an
 4. **Get Contract Balance**:
    - Anyone can view the contract's current ether balance.
 
-## Contract Address
+#### **Contract Address**: 0x6f4621d3f9facf596f6fbccc6466cb6e9cbf8624
 
 - **Test Network Address**: `0x1234567890abcdef1234567890abcdef12345678`
-- **Main Network Address**: `0xabcdefabcdefabcdefabcdefabcdefabcdefabcdef`
 
-*Note: Replace these addresses with the actual deployed contract addresses.*
 
 ## Future Scope
 
@@ -53,16 +42,9 @@ The `TeacherRewardSystem` smart contract is designed to provide a transparent an
 
 ## Contact Details
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [github.com/yourusername/TeacherRewardSystem]
+- **Project Lead**: Chinmoy Hazarika
+- **Email**: chinmoyh12345@gmail.com
+- **GitHub**: github.com/Stinger1-gen/Teacher-Reward-System
 
 Feel free to reach out for questions, contributions, or further information about the project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` provides an overview of the project, a flowchart description, contract addresses, future enhancements, and contact details, all within the 50-60 line range. Adjust the placeholders as needed.
