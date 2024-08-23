@@ -1,5 +1,13 @@
-# TeacherRewardSystem Smart Contract
+# TeacherRewardSystem Smart Contract-Educhain
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/d676c1d6-b788-4c9c-b89f-a40204c54eac)
+
+
+
 
 
 ## Vision
